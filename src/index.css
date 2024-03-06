@@ -1,0 +1,41 @@
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  margin-top: -25px;
+  margin-left: 20rem;
+}
+.logo{
+  margin-left: 7rem;
+}
+ul li{
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+  color: white;
+}
+.footer-content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.about{
+  margin-top: 6rem;
+}
+.book{
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(to bottom right, #C70039,#EC8948 );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home{
+  background-image: linear-gradient(to bottom right, #C70039,#EC8948 );
+
+}
+
+
